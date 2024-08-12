@@ -1,7 +1,7 @@
 # VLSI-Interconnects
 This repository has simulations of various models of Interconnects and the delay due to interconnects. All the simulations are done on LT Spice
 
-RC MODEL - 
+# RC MODEL - 
 
 An RC interconnect has the following parameters:
 Interconnect length / = 1000m
@@ -17,4 +17,15 @@ Does the equivalent i model give a better approximation of distributed model wit
 
 (a) RC lumped model - 
 
+Circuit diagram
 <img width="443" alt="Screenshot 2024-08-12 at 10 18 59 PM" src="https://github.com/user-attachments/assets/535561d8-18a2-4b5c-8037-3b6a179ef4c1">
+
+Transient Analysis
+<img width="1469" alt="Screenshot 2024-08-12 at 10 18 16 PM" src="https://github.com/user-attachments/assets/ed9ea40f-9302-4b2a-9108-fce3a6a319a1">
+<img width="1469" alt="Screenshot 2024-08-12 at 10 17 35 PM" src="https://github.com/user-attachments/assets/cc027319-579f-41dc-83eb-65d4cd09617f">
+
+Delay (0 to 63% rise of Vout) 
+<img width="1469" alt="Screenshot 2024-08-12 at 10 17 28 PM" src="https://github.com/user-attachments/assets/3cdbe502-83b9-433a-bbd3-6269e1cccf98">
+
+
+
