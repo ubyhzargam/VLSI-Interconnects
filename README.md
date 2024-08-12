@@ -21,17 +21,23 @@ Circuit diagram :
 
 <img width="443" alt="Screenshot 2024-08-12 at 10 18 59 PM" src="https://github.com/user-attachments/assets/535561d8-18a2-4b5c-8037-3b6a179ef4c1">
 <br><br>
+<br><br>
+<br><br>
 Transient Analysis :
 
 <img width="1469" alt="Screenshot 2024-08-12 at 10 18 16 PM" src="https://github.com/user-attachments/assets/ed9ea40f-9302-4b2a-9108-fce3a6a319a1">
 
 <img width="1469" alt="Screenshot 2024-08-12 at 10 17 35 PM" src="https://github.com/user-attachments/assets/cc027319-579f-41dc-83eb-65d4cd09617f">
 <br><br>
+<br><br>
+<br><br>
 Delay (0 to 63% rise of Vout) :
 
 <img width="1469" alt="Screenshot 2024-08-12 at 10 17 28 PM" src="https://github.com/user-attachments/assets/3cdbe502-83b9-433a-bbd3-6269e1cccf98">
 
 As shown in the above image the delay comes out to be around 10ps which also the expected delay value theoretically.
+<br><br>
+<br><br>
 <br><br>
 
 
