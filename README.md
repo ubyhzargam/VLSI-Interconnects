@@ -16,4 +16,5 @@ Consider an input voltage clock of 2GHz, and peak voltage 1V, with 50% duty cycl
 Does the equivalent i model give a better approximation of distributed model with lesser number of terms?
 
 (a) RC lumped model - 
+
 <img width="443" alt="Screenshot 2024-08-12 at 10 18 59 PM" src="https://github.com/user-attachments/assets/535561d8-18a2-4b5c-8037-3b6a179ef4c1">
