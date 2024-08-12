@@ -31,5 +31,7 @@ Delay (0 to 63% rise of Vout)
 
 <img width="1469" alt="Screenshot 2024-08-12 at 10 17 28 PM" src="https://github.com/user-attachments/assets/3cdbe502-83b9-433a-bbd3-6269e1cccf98">
 
+As shown in the above image the delay comes out to be around 10ps which also the expected delay value theoretically.
+
 
 
