@@ -40,5 +40,29 @@ As shown in the above image the delay comes out to be around 10ps which also the
 <br><br>
 <br><br>
 
+(b) RC distributed model : 5 segments 
+
+Circuit diagram :
+
+<img width="840" alt="Screenshot 2024-08-13 at 9 24 05 PM" src="https://github.com/user-attachments/assets/a371f218-55bb-4137-81a3-1596f1c783e0">
+
+<br><br>
+<br><br>
+<br><br>
+
+Transient Analysis :
+
+<img width="1470" alt="Screenshot 2024-08-13 at 9 24 28 PM" src="https://github.com/user-attachments/assets/228e2272-b107-4ac7-a9bd-836fc5b66ce5">
+<img width="1470" alt="Screenshot 2024-08-13 at 9 24 14 PM" src="https://github.com/user-attachments/assets/3ee4f273-c604-45c2-b9d9-1e51416de00f">
+<br><br>
+<br><br>
+<br><br>
+
+Delay (0 to 63% rise of Vout) :
+
+<img width="1470" alt="Screenshot 2024-08-13 at 9 27 11 PM" src="https://github.com/user-attachments/assets/6993efd5-aa8d-4b39-be5f-914c8ef1b7e4">
+<br><br>
+<br><br>
+<br><br>
 
 
